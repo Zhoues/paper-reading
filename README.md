@@ -2,6 +2,8 @@
 
 [原文 arXiv / ReadPaper 链接] 
 
+领域方向：[ 计算机视觉 - CNN / 自然语言处理 - Transformer / .... ]
+
 笔记作者：[笔记作者姓名]
 
 ---
